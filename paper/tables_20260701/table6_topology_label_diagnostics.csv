@@ -1,0 +1,4 @@
+Dataset,Candidate-label conflict,Label JS,Guard accept,Class-wise accept
+Cora,0.8667,0.4811,0.9262,0.5627
+CiteSeer,0.8222,0.4812,0.7917,0.4185
+PubMed,0.6222,0.3352,0.9222,0.6296

@@ -1,0 +1,4 @@
+Dataset,SPC-FedGNN,FedATH,FedSSP,SPC wins vs FedATH,SPC wins vs FedSSP
+Cora,0.1880 ± 0.0084,0.1745 ± 0.0207,0.1649 ± 0.0163,4/5,5/5
+CiteSeer,0.2256 ± 0.0233,0.2090 ± 0.0192,0.1942 ± 0.0221,5/5,5/5
+Amazon-Photo,0.2189 ± 0.0207,0.2187 ± 0.0107,0.1873 ± 0.0240,2/5,5/5

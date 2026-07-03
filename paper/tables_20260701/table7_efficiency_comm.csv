@@ -1,0 +1,7 @@
+Method,Train seconds,Upload MB,Download MB,Descriptor/Candidate overhead KB
+SPC-FedGNN,56.85,552.27,552.27,0.78
+FedATH,36.92,552.27,552.27,0.00
+FedSSP,17.14,552.27,552.27,0.00
+FedPub-style,27.12,552.29,552.27,25.00
+FedAvg-GCN,15.85,552.27,552.27,0.00
+FedProx-GCN,16.48,552.27,552.27,0.00

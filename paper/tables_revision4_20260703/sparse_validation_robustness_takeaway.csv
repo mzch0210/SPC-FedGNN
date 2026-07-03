@@ -1,0 +1,7 @@
+dataset,method,macro_f1_100,macro_f1_20,macro_f1_10,macro_f1_05,macro_f1_drop1cls,worst_delta,worst_retention_pct,interpretation
+amazon_photo,spc_guard_pp,0.213609,0.208283,0.207749,0.191885,0.199740,-0.021724,89.830216,sensitive under most sparse evidence; report conservatively
+amazon_photo,spc_guard,0.195584,0.198471,0.219614,0.212744,0.224094,0.002887,101.476329,stable under sparse/missing validation evidence
+cora,spc_guard_pp,0.191371,0.189510,0.193762,0.191997,0.194637,-0.001862,99.027178,stable under sparse/missing validation evidence
+cora,spc_guard,0.193556,0.193069,0.192883,0.192029,0.194936,-0.001527,99.211178,stable under sparse/missing validation evidence
+pubmed,spc_guard_pp,0.384294,0.388797,0.383949,0.389290,0.384381,-0.000345,99.910243,stable under sparse/missing validation evidence
+pubmed,spc_guard,0.388484,0.388051,0.388176,0.388346,0.383966,-0.004518,98.836932,stable under sparse/missing validation evidence

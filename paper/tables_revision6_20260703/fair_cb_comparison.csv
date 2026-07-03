@@ -1,0 +1,4 @@
+dataset,spc_guard_pp,best_external,best_external_mean,delta_vs_best_external,wins_losses_ties_vs_best,best_cb_external,best_cb_external_mean,delta_vs_best_cb_external
+amazon_photo,0.1968,fedath_cb,0.2434,-0.0466,0/3/0,fedath_cb,0.2434,-0.0466
+cora,0.1912,fedath_cb,0.2062,-0.0151,0/3/0,fedath_cb,0.2062,-0.0151
+pubmed,0.3843,fedpub_gcn_cb,0.3506,+0.0337,2/1/0,fedpub_gcn_cb,0.3506,+0.0337

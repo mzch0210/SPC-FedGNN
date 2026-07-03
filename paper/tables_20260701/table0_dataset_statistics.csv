@@ -1,0 +1,8 @@
+Dataset,#Nodes,#Edges,#Features,#Classes,Graph type,Role
+Cora,"2,708","10,556","1,433",7,Citation,Homophilous citation benchmark
+CiteSeer,"3,327","9,104","3,703",6,Citation,Homophilous citation benchmark
+PubMed,"19,717","88,648",500,3,Citation,Homophilous citation benchmark
+Amazon-Photo,"7,650","238,162",745,8,Co-purchase,Homophilous product graph
+Amazon-Computers,"13,752","491,722",767,10,Co-purchase,Homophilous product graph
+Roman-empire,"22,662","65,854",300,18,Heterophilous,Heterophily benchmark
+Tolokers,"11,758","1,038,000",10,2,Heterophilous,Heterophily benchmark

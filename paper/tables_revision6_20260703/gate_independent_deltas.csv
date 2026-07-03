@@ -1,0 +1,7 @@
+dataset,method,train_evidence_mean,independent_gate_mean,delta_independent_minus_train
+amazon_photo,spc_guard,0.2136,0.1919,-0.0218
+amazon_photo,spc_guard_pp,0.2152,0.1988,-0.0163
+cora,spc_guard,0.1937,0.1710,-0.0227
+cora,spc_guard_pp,0.1931,0.1698,-0.0232
+pubmed,spc_guard,0.3884,0.3666,-0.0219
+pubmed,spc_guard_pp,0.3844,0.3742,-0.0102
