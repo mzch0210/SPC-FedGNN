@@ -1,6 +1,6 @@
-# SPC-FedGNN Anonymous Reproducibility Artifact
+# SPC-FedGNN Reproducibility Artifact
 
-This repository contains the anonymous reproducibility artifact for
+This repository contains the reproducibility artifact for
 `SPC-FedGNN: Guarded Structural Prototype Collaboration for Robust Federated Graph Learning`.
 
 The artifact is intended for peer review. It includes the experimental code,
