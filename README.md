@@ -102,9 +102,3 @@ python scripts/make_revision_figures.py
 ```
 
 Generated figures are written to `manuscript_neurocomputing/figures/`.
-
-## Anonymity Note
-
-This artifact is prepared for anonymous review. Please do not add author names,
-institutional email addresses, local machine paths, SSH configuration, or
-private Google Drive links before uploading it to an anonymous repository.
